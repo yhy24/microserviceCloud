@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microserviceCloud-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microserviceCloud-consumer-81" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microserviceCloud-eureka-7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microserviceCloud-privider-8002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-eureka-7002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-feign" charset="UTF-8" />
+  </component>
+</project>

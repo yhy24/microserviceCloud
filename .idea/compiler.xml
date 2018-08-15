@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microserviceCloud-api" />
+        <module name="microserviceCloud-consumer-81" />
+        <module name="microserviceCloud-consumer-feign" />
+        <module name="microserviceCloud-eureka-7001" />
+        <module name="microservicecloud-eureka-7002" />
+        <module name="microservicecloud-feign" />
+        <module name="microserviceCloud-privider-8002" />
+        <module name="microserviceCloudprovider-hystrix-8002" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="microserviceCloud" target="1.5" />
+      <module name="microserviceCloud-api" target="1.5" />
+      <module name="microserviceCloud-consumer-81" target="1.5" />
+      <module name="microserviceCloud-consumer-feign" target="1.5" />
+      <module name="microserviceCloud-eureka-7001" target="1.5" />
+      <module name="microservicecloud-eureka-7002" target="1.8" />
+      <module name="microservicecloud-eureka-7702" target="1.8" />
+      <module name="microservicecloud-feign" target="1.8" />
+      <module name="microserviceCloud-privider-8002" target="1.5" />
+      <module name="microserviceCloudprovider-hystrix-8002" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
